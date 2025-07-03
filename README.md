@@ -1,1 +1,1 @@
-# E-commerece-MERN-proeject-
+# E-commerce-MERN-proeject-
