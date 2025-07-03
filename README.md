@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
-# E-commerce-MERN-proeject-
-=======
 # 🛒 E-commerce Store MERN project
 
 A full-stack E-commerce app built with MongoDB, Express, React, and Node.js.
@@ -54,5 +48,4 @@ npm run data:import  # Add sample products
 
 ## Author
 SAMARTH SHEKHAR
->>>>>>> ee590f8 (Initial project upload)
->>>>>>> 400c161 (Initial project upload)
+
