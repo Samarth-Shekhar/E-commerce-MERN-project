@@ -1,0 +1,34 @@
+[
+  {
+    "name": "iPhone 13 Pro",
+    "description": "Apple iPhone 13 Pro with A15 Bionic chip and 120Hz OLED display.",
+    "price": 99999,
+    "ratings": 4.8,
+    "images": [
+      {
+        "public_id": "sample_image",
+        "url": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-1-2021?wid=2000&hei=2000&fmt=jpeg&qlt=90&.v=1631652955000"
+      }
+    ],
+    "category": "Smartphones",
+    "stock": 15,
+    "numOfReviews": 0,
+    "reviews": []
+  },
+  {
+    "name": "Sony WH-1000XM4",
+    "description": "Industry-leading noise canceling headphones with premium sound quality.",
+    "price": 29999,
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "sample_image_2",
+        "url": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._SL1500_.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "stock": 30,
+    "numOfReviews": 0,
+    "reviews": []
+  }
+]
